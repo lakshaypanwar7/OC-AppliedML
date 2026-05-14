@@ -1,8 +1,8 @@
-# [Your Project Title Here]
+# [Micro-Plastic Detection]
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/lakshaypanwar7/OC-AppliedML.git]
 
 ## Description
 
