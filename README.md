@@ -1,12 +1,12 @@
-# [Micro-Plastic Detection]
+# Micro-Plastic Detection
 
 ## Repository Link
 
-[https://github.com/lakshaypanwar7/OC-AppliedML.git]
+https://github.com/lakshaypanwar7/OC-AppliedML.git
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+This project utilizes Sentinel-2 multispectral data to detect microplastics in the Baltic Sea through sub-pixel anomaly detection. It identifies molecular fingerprints in the Short Wave Infrared [SWIR] and Near Infrared [NIR] bands using a Deep Learning Varaitional Autoencoder [VAE].
 
 ### Task Type
 
