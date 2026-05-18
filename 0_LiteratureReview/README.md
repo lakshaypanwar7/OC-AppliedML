@@ -6,7 +6,7 @@ Approaches or solutions that have been tried before on similar projects.
 
 - **Source 1**: Microplastics distribution on the beach sediment based on satellite remote sensing: A case study in Bali, Indonesia
 
-  - **[Link]([url](https://www.sciencedirect.com/science/article/pii/S0169772226000252))**
+  - **[Link][url](https://www.sciencedirect.com/science/article/pii/S0169772226000252)**
   - **Objective**: To investigate how seasonal oceanographic processes (winds, waves, and currents) govern the transport and spatial distribution of microplastics (MPs) in beach sediments.
   - **Methods**: The study sampled seventeen beach sediments in Bali. It combined traditional laboratory methods (dry sieving, microscopy, and ATR-FTIR spectroscopy) with satellite-derived hydrodynamic datasets from Copernicus (CMEMS/CAMS) to reconstruct the environmental drivers of pollution.
   - **Outcomes**: Identified Polystyrene (PS) as the dominant polymer. It proved that MP hotspots are directly correlated with hydrodynamic patterns, such as onshore winds and southwestward currents from the Lombok Strait, providing a baseline for targeted coastal management.
