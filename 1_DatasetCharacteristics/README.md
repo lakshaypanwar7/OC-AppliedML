@@ -2,17 +2,13 @@ Dataset Source
 
 Dataset Name: MARIne Debris Archive (MARIDA)
 
-Dataset Link: https://github.com/earthlab/MARIDA (Primary repository) or Zenodo Repository (Direct data download)
-
+Dataset Link: https://github.com/earthlab/MARIDA (Primary repository)
 Dataset Owner/Contact: Earth Observation Laboratory, University of the Aegean; National Technical University of Athens (K. Topouzelis).
 
 Dataset Characteristics
 Number of Observations: 837,357 pixels (Total samples across all splits). The data is derived from Sentinel-2 Multi-Spectral Instrument (MSI) Level-2A imagery.
 
 Number of Features: 11 (Corresponding to specific Sentinel-2 spectral bands).
-
-Target Variable/Label
-Label Name: label (Internal key in .npz files) / class_name
 
 Label Type: Multi-class Classification
 
