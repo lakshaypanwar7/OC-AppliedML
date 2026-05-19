@@ -2,7 +2,7 @@ Dataset Source
 
 Dataset Name: MARIne Debris Archive (MARIDA)
 
-Dataset Link: https://github.com/earthlab/MARIDA (Primary repository)
+Dataset Link: https://github.com/marine-debris/marine-debris.github.io
 Dataset Owner/Contact: Earth Observation Laboratory, University of the Aegean; National Technical University of Athens (K. Topouzelis).
 
 Dataset Characteristics
